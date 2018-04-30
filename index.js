@@ -6,5 +6,5 @@ var uppercase = "HELLO!"
 
 console.log(uppercase.toUpperCase() === uppercase)
 
-var lowercase = 'Hello!'
+var lowercase = 'hello!'
 console.log(lowercase.toLowerCase() === lowercase)
